@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Okikiola100/Okikiola100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Okikiola100/Okikiola100** is a ✄1�7 _special_ ✄1�7 repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,5 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...https://www.linkedin.com/in/oladapo-okikiola-854966247
 www.twitter.com/oladapookiki1 
 - 😄 Pronouns: ...He
-- ⚡ Fun fact: ...I am easy to teach
+- ⚄1�7 Fun fact: ...I am easy to teach
 -->
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Okikiola100&label=Profile%20Views&color=0&icon=2&pretty=false" />
+</a>
